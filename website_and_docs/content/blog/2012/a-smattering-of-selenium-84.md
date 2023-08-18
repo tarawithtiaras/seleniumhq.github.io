@@ -23,4 +23,5 @@ What? Its only been 3 months since the last one. Sheesh.
 *   And lastly,  
     
     > When test automation is made a goal rather than a tool, quality suffers.
-    > {{< tweet user="QualityFrog" id="195952852244512768" >}}
+    > - Ben Simo (@QualityFrog / @qualityfrog@mastodon.social), [Apr 27, 2012](https://twitter.com/QualityFrog/status/195952852244512768)
+
